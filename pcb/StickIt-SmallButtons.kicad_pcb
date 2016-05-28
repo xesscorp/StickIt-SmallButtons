@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2016-02-25 BZR 6592, Git a9427f8)-product")
+(kicad_pcb (version 4) (host pcbnew "(2016-05-20 BZR 6816, Git 1e0a72d)-product")
 
   (general
     (links 72)
     (no_connects 0)
-    (area -0.050001 -0.050001 49.580001 20.370001)
+    (area -14.423343 -5.874999 57.745105 26.195001)
     (thickness 1.6)
     (drawings 47)
     (tracks 273)
@@ -2087,7 +2087,7 @@
   (module XESS:PSHBTTN_SMD_5x5 (layer F.Cu) (tedit 573349FB) (tstamp 57332C86)
     (at 17.145 14.605 270)
     (path /57334028)
-    (fp_text reference S6 (at -3.429 0 360) (layer F.SilkS)
+    (fp_text reference S6 (at -3.429 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.203)))
     )
     (fp_text value SW_PUSH (at 0 3.5 270) (layer F.Fab)
