@@ -1,0 +1,21 @@
+net clk_i loc = A9; # 12 MHz clock to FPGA.
+
+# StickIt! SmallButtons V1 ==[pm2]==> StickIt! V4 ==> XuLA2
+net btn_i<1> loc = k3;
+net btn_i<2> loc = m1;
+net btn_i<3> loc = h1;
+net btn_i<4> loc = j4;
+net btn_i<5> loc = m2;
+net btn_i<6> loc = r1;
+net btn_i<7> loc = r2;
+net btn_i<8> loc = t4;
+
+# StickIt! LED Digits V2 ==[pm1]==> StickIt! V4 ==> XuLA2
+net led_io<0> loc = r7;
+net led_io<1> loc = t7;
+net led_io<2> loc = r16;
+net led_io<3> loc = r15;
+net led_io<4> loc = m16;
+net led_io<5> loc = m15;
+net led_io<6> loc = k16;
+net led_io<7> loc = k15;

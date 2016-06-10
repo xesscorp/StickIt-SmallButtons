@@ -1,0 +1,10 @@
+1. Insert a XuLA2-LX25 board into a StickIt! V4 motherboard.
+2. Attach a StickIt! SmallButtons module to the PM2 connector of the motherboard.
+3. Attach a StickIt! LED module to the PM1 connector of the motherboard.
+4. Attach a USB cable to the XuLA2 board. (This will supply power for the
+   entire collection of boards and modules.)
+5. Use `GXSTOOLS` to download the `.bit` file to the FPGA on the XuLA2 board.
+   After the download completes, the first digit of the LED display should show a "-".
+6. Press each button on the SmallButtons module. The digit corresponding to the
+   button will appear on the first digit of the LED display.
+
