@@ -1,4 +1,4 @@
-update=05/25/2016 12:13:21 AM
+update=11/02/2016 11:40:52 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -60,3 +60,14 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=xess
+LibName31=espressif-xess/espressif-xess
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
