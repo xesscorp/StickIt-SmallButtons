@@ -1,18 +1,25 @@
-# StickIt-SmallButtons
+# StickIt! SmallButtons Module Repository
 
 
-# Description
+## Description
 
-The StickIt-SmallButtons is truly awesome!
+The StickIt-SmallButtons Module puts the power of eight pushbuttons into a small
+module that is usable on a breadboard or through a PMOD connector.
 
 * License: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/legalcode)
-* Documentation: [StickIt-SmallButtons.readthedocs.org](https://StickIt-SmallButtons.readthedocs.org)
+* Documentation: [https://xesscorp.github.io/StickIt-Smallbuttons](https://xesscorp.github.io/StickIt-Smallbuttons)
 
 
-# Features
+## Features
 
-* TODO
+* It has eight independent, momentary-contact tact-switch buttons.
+* Insertable into a solderless breadboard.
+* Also usable through its PMOD interface.
+* Small: 0.8" &times; 1.95".
+* Compatible with the [StickIt! Motherboard](http://www.xess.com/shop/product/stickit-mb-4_0/).
+* Completely open source.
+* Did I mention it has **eight** buttons?
 
-![ StickIt-SmallButtons Picture ](https://raw.githubusercontent.com/xesscorp/StickIt-SmallButtons/master/docs/Manual/pics/StickIt-SmallButtons_cover.jpg)
-![ StickIt-SmallButtons Schematic ](https://raw.githubusercontent.com/xesscorp/StickIt-SmallButtons/master/docs/Manual/pics/StickIt-SmallButtons_schematic.png)
-![ StickIt-SmallButtons PCB ](https://raw.githubusercontent.com/xesscorp/StickIt-SmallButtons/master/docs/Manual/pics/StickIt-SmallButtons_pcb.jpg)
+[ StickIt-SmallButtons Schematic ](https://xesscorp.github.io/StickIt-Smallbuttons/schematic.pdf)
+
+<img src="docs/images/cover.jpg" style="width:50%;"/>

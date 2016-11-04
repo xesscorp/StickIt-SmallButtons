@@ -9,12 +9,14 @@ on the first digit of the StickIt! LED module.
 Important Files
 -----------------------------------------------------
 
-`ButtonTest.vhd`: Module for scanning the StickIt! SmallButtons module.
-	It also contains the test module.
+`ButtonTest.vhd`: Test code for scanning the buttons and displaying the
+    pressed button on the LED digit. You'll also need to install the
+    [XESS VHDL library](https://github.com/xesscorp/VHDL_Lib) to get access
+    to the LED digits interface module.
 
 `ButtonTest.ucf`: Pin assignments for connecting the XuLA2 FPGA
 	board to the StickIt! SmallButtons and LED modules via the StickIt! V4 motherboard.
-    (Use the `gxsconn` tool to generate pin mappings. Install it with
+    (Use the [`gxsconn` tool](https://xesscorp.github.com/xsconnect) to generate pin mappings. Install it with
     `pip install xsconnect`.)
 
 `ButtonTest.xise`: The Xilinx ISE project file that ties all the previous files together.
@@ -33,4 +35,3 @@ Running the Test
    After the download completes, the first digit of the LED display should show a "-".
 7. Press each button on the SmallButtons module. The digit corresponding to the
    button will appear on the first digit of the LED display.
-

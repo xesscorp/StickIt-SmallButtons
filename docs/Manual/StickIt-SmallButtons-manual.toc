@@ -1,0 +1,11 @@
+\select@language {english}
+\contentsline {chapter}{\chapternumberline {1}Preliminaries}{1}{chapter.1}
+\contentsline {section}{Getting Help!}{1}{section*.1}
+\contentsline {section}{Take Notice!}{1}{section*.2}
+\contentsline {section}{Packing List}{1}{section*.3}
+\contentsline {chapter}{\chapternumberline {2}Setup}{3}{chapter.2}
+\contentsline {section}{Inserting Your Module Into a PMOD Socket}{3}{section*.4}
+\contentsline {section}{Inserting Your Module Into a Solderless Breadboard}{4}{section*.5}
+\contentsline {chapter}{\chapternumberline {3}Operation}{6}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Using the Module}{7}{chapter.4}
+\contentsline {appendix}{\chapternumberline {A}I/O Locations}{8}{appendix.A}
