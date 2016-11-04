@@ -8,7 +8,7 @@ summary: Basic theory of operation of this module.
 
 All eight buttons of the {{site.product_name}} are built from the following circuit:
 
-<img src="/images/circuit.png" alt="Basic circuit for the {{site.product_name}}." style="width:50%;" class="center-it"/>
+<img src="images/circuit.png" alt="Basic circuit for the {{site.product_name}}." style="width:50%;" class="center-it"/>
 
 When a pushbutton is pressed, the corresponding pin on the PMOD and breadboard
 headers is pulled to ground through the 4.7 K&Omega; resistor.

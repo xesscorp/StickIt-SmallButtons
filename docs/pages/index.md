@@ -6,6 +6,6 @@ permalink: index.html
 summary: Manual coverpage for the StickIt! SmallButtons Module.
 ---
 
-<img src="/images/cover.jpg" style="width:70%;"/>
+<img src="images/cover.jpg" style="width:70%;"/>
 
 {% include links.html %}
