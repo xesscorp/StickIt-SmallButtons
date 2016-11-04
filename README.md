@@ -7,7 +7,7 @@ The StickIt-SmallButtons Module puts the power of eight pushbuttons into a small
 module that is usable on a breadboard or through a PMOD connector.
 
 * License: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/legalcode)
-* Documentation: [https://xesscorp.github.io/StickIt-Smallbuttons/index.html](https://xesscorp.github.io/StickIt-Smallbuttons/index.html)
+* Documentation: [https://xesscorp.github.io/StickIt-SmallButtons](https://xesscorp.github.io/StickIt-SmallButtons)
 
 
 ## Features
