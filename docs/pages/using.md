@@ -31,7 +31,7 @@ to the PM1 port of the {{site.stickit_mb}} V4.0 with a {{site.xula2}} FPGA board
 Just cut-and-paste the pin assignment constraints into the UCF file for your
 project and you're good to go.
 
-<img src="/images/xsconnect.png" alt="Using the xsconnect program." style="width:100%;" class="center-it"/>
+<img src="images/xsconnect.png" alt="Using the xsconnect program." style="width:100%;" class="center-it"/>
 
 
 
