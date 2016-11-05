@@ -20,6 +20,6 @@ module that is usable on a breadboard or through a PMOD connector.
 * Completely open source.
 * Did I mention it has **eight** buttons?
 
-[ StickIt-SmallButtons Schematic ](https://xesscorp.github.io/StickIt-Smallbuttons/schematic.pdf)
+[ StickIt-SmallButtons Schematic ](https://xesscorp.github.io/StickIt-SmallButtons/schematic.pdf)
 
 <img src="docs/images/cover.jpg" style="width:50%;"/>
