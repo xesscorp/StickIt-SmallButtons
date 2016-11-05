@@ -2,7 +2,7 @@
 title: Legal Stuff
 keywords: legal
 sidebar: manual_sidebar
-permalink: legal_Stuff.html
+permalink: legal_stuff.html
 summary: Legal disclaimers, copyright, etc.
 ---
 
