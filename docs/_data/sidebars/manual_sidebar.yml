@@ -70,7 +70,7 @@ entries:
     folderitems:
 
     - title: Schematic
-      url: /schematic.pdf
+      url: misc/schematic.pdf
       output: web
 
   - title: Stuff Nobody Reads
