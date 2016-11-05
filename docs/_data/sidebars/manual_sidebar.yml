@@ -10,19 +10,19 @@ entries:
     folderitems:
 
     - title: Preliminaries
-      url: /preliminaries.html
+      url: preliminaries.html
       output: web
 
     - title: Getting Help!
-      url: /preliminaries.html#getting-help
+      url: preliminaries.html#getting-help
       output: web
 
     - title: Take Notice!
-      url: /preliminaries.html#take-notice
+      url: preliminaries.html#take-notice
       output: web
 
     - title: Packing List
-      url: /preliminaries.html#packing-list
+      url: preliminaries.html#packing-list
       output: web
 
   - title: Setup
@@ -30,15 +30,15 @@ entries:
     folderitems:
 
     - title: Setup
-      url: /setup.html
+      url: setup.html
       output: web
 
     - title: Inserting Your Module Into a PMOD Socket
-      url: /setup.html#inserting-your-module-into-a-pmod-socket
+      url: setup.html#inserting-your-module-into-a-pmod-socket
       output: web
 
     - title: Inserting Your Module Into a Solderless Breadboard
-      url: /setup.html#inserting-your-module-into-a-solderless-breadboard
+      url: setup.html#inserting-your-module-into-a-solderless-breadboard
       output: web
 
   - title: Operation
@@ -46,7 +46,7 @@ entries:
     folderitems:
 
     - title: Operation
-      url: /operation.html
+      url: operation.html
       output: web
 
   - title: Using the Module
@@ -54,7 +54,7 @@ entries:
     folderitems:
 
     - title: Using the Module
-      url: /using.html
+      url: using.html
       output: web
 
   - title: I/O Pin Assignments
@@ -62,7 +62,7 @@ entries:
     folderitems:
 
     - title: I/O Pin Assignments
-      url: /io.html
+      url: io.html
       output: web
 
   - title: Schematic
@@ -78,9 +78,9 @@ entries:
     folderitems:
 
     - title: Revision History Stuff
-      url: /revision_history.html
+      url: revision_history.html
       output: web
 
     - title: Legal Stuff
-      url: /legal_stuff.html
+      url: legal_stuff.html
       output: web
