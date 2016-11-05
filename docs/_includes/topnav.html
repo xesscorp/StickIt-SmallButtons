@@ -24,6 +24,10 @@
                 {% endif %}
                 {% endfor %}
                 {% endfor %}
+                <!-- Link to main product repository goes here -->
+                {% if site.product_repo %}
+                <li><a href={{site.product_repo}}>Main Repository</a></li>
+                {% endif %}
                 <!-- entries with drop-downs appear here -->
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 {% for entry in site.data.topnav.topnav_dropdowns %}
