@@ -73,9 +73,13 @@ entries:
       url: /schematic.pdf
       output: web
 
-  - title: Legal Stuff
+  - title: Stuff Nobody Reads
     output: web
     folderitems:
+
+    - title: Revision History Stuff
+      url: /revision_history.html
+      output: web
 
     - title: Legal Stuff
       url: /legal_stuff.html

@@ -7,7 +7,7 @@ summary: How to setup the module with a breadboard or a PMOD interface.
 ---
 
 The {{site.product_name}} provides an array of eight pushbuttons that you can insert
-into an eight-bit PMOD socket (such as the ones on a [{{site.stickit_mb}}](http://www.xess.com/shop/product/stickit-mb-4_0/))
+into an eight-bit PMOD&trade; socket (such as the ones on a [{{site.stickit_mb}}](http://www.xess.com/shop/product/stickit-mb-4_0/))
 or a standard solderless breadboard.
 
 ## Inserting Your Module Into a PMOD Socket
