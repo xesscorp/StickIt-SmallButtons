@@ -22,4 +22,4 @@ module that is usable on a breadboard or through a PMOD connector.
 
 [ StickIt-SmallButtons Schematic ](https://xesscorp.github.io/StickIt-SmallButtons/misc/schematic.pdf)
 
-<img src="docs/images/cover.jpg" style="width:50%;"/>
+<img src="docs/images/cover.jpg" width="400"/>
